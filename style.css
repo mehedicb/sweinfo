@@ -107,3 +107,11 @@ input[type="range"]::-moz-range-thumb {
 .status-dot {
   animation: pulseGlow 2s infinite ease-in-out;
 }
+
+#submit_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  margin-left: 42vw;
+}
